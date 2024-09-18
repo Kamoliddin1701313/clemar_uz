@@ -1,10 +1,10 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import Typography from "@mui/material/Typography";
 import Modal from "@mui/material/Modal";
-import { BorderClear, BorderColor } from "@mui/icons-material";
 import { CloseModalBtnIcon } from "../../assets/icons/Icons";
+import axios from "axios";
+import { useTranslation } from "react-i18next";
 
 const style = {
   position: "absolute",
@@ -16,7 +16,6 @@ const style = {
   boxShadow: 24,
   p: 6,
   borderRadius: 5,
-  BorderColor: "white",
   border: "2px solid white",
 };
 
@@ -25,13 +24,48 @@ function WidgetModal() {
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
 
+  const { t } = useTranslation();
+
+  const SendMessage = (event) => {
+    event.preventDefault();
+    const token = "7047437133:AAF1g7efX79bh4TSYtBwN1TEQRL6GtjFczo";
+    const chat_id = 6399996460;
+    const url = `https://api.telegram.org/bot${token}/sendMessage`;
+    //
+    const ism = document.getElementById("ism").value.trim();
+    const phone_number = document.getElementById("tel").value.trim();
+
+    console.log(ism, phone_number, "Kamoliddin");
+
+    if (ism.length === 0 || phone_number.length === 0) {
+      alert("Xammasini to'ldirishingiz shart 😡");
+      return;
+    }
+    //
+    const messageContend = `Ism : ${ism} \nPhone number : ${phone_number}`;
+    axios({
+      url: url,
+      method: "POST",
+      data: {
+        chat_id: chat_id,
+        text: messageContend,
+      },
+    })
+      .then((res) => {
+        document.getElementById("form_id").reset();
+        alert("Muvaffaqiyotli yuborildi ... 👏");
+      })
+      .catch((err) => console.log(err));
+  };
+  //
+
   return (
-    <div className="py-1 px-5 rounded-[8px] font-semibold bg-white">
+    <div className="py-1 px-5 rounded-[8px] font-semibold bg-white xl:px-1 lg:hidden xl:py-0 lg:p-0">
       <Button
         onClick={handleOpen}
-        className={`text-[#49c3f2] border-none py-3 px-5 rounded-[8px] border-[3px]`}
+        className="text-[#49c3f2] border-none py-3 rounded-[8px]"
       >
-        Bonus olish
+        {t("widgetmodal.modal")}
       </Button>
       <Modal
         open={open}
@@ -40,20 +74,27 @@ function WidgetModal() {
         aria-describedby="modal-modal-description"
       >
         <Box sx={style}>
-          <form className="relative">
+          <form onSubmit={SendMessage} id="form_id" className="relative">
             <input
+              id="ism"
               type="text"
-              placeholder="Ism"
+              placeholder={t("widgetmodal.ism")}
               className="rounded-xl text-[20px] font-normal bg-[#f8f8f8] p-4 w-full border-[1px] border-[#cacaca] outline-none"
             />
             <input
-              type="text"
-              placeholder="Telefon raqami"
+              id="tel"
+              type="number"
+              placeholder={t("widgetmodal.tel")}
               className="rounded-xl text-[20px] font-normal bg-[#f8f8f8] p-4 w-full border-[1px] border-[#cacaca] outline-none my-5"
             />
-            <button className="rounded-xl w-1/2 mx-auto block mt-4 bg-blue-400 text-[20px] text-white font-normal py-4 px-4 outline-none">
-              Yuborish
+
+            <button
+              type="submit"
+              className="rounded-xl w-1/2 mx-auto block mt-4 bg-blue-400 text-[20px] text-white font-normal py-4 px-4 outline-none"
+            >
+              {t("widgetmodal.yuborish")}
             </button>
+
             <div className="absolute -right-8 -top-8">
               <CloseModalBtnIcon
                 onClick={handleClose}
@@ -66,4 +107,5 @@ function WidgetModal() {
     </div>
   );
 }
+
 export default WidgetModal;

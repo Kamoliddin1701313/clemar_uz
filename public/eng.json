@@ -1,0 +1,191 @@
+{
+  "widgetmodal": {
+    "modal": "Get Bonus",
+    "yuborish": "Send",
+    "ism": "Name",
+    "tel": "Phone number"
+  },
+
+  "widget": {
+    "manzil": "Address",
+    "tashkent": "Tashkent",
+    "instagram": "Instagram",
+    "telegram": "Telegram"
+  },
+
+  "navbar": {
+    "katalog": "Catalog",
+    "placeholdernavbar": "Catalog",
+    "bizhaqimizda": "About Us",
+    "sevimli": "Favorites"
+  },
+
+  "kategories": {
+    "kategoriya": "Categories",
+    "hammasiniko'rish": "See all"
+  },
+
+  "kategorisdata": {
+    "name1": "Paper products",
+    "size1": "4 days ago",
+    "name2": "Professional vacuum cleaners",
+    "size2": "4 days ago",
+    "name3": "Floor washing machines",
+    "size3": "4 days ago",
+    "name4": "Detergents",
+    "size4": "7 days ago",
+    "name5": "Cleaning equipment",
+    "size5": "4 days ago"
+  },
+
+  "productsdata": {
+    "products": "The best products",
+    "hammasiniko'rish": "See all",
+    "name1": "Selpak Professional Premium Toilet Paper 24 pcs x3",
+    "size1": "0 soums",
+    "name2": "Selpak Professional Premium Butik Box with napkins 48 pcs.",
+    "size2": "0 soums",
+    "name3": "SEBO EVOLUTION 470",
+    "size3": "0 soums",
+    "name4": "SEBO AUTOMATIC XP30",
+    "size4": "0 soums",
+    "name5": "Fantom Promidi 250M",
+    "size5": "0 soums",
+    "name6": "Santoemma sabrina sw15",
+    "size6": "0 soums",
+    "name7": "Santoemma sabrina maxi",
+    "size7": "0 soums",
+    "name8": "TVX T35E",
+    "size8": "0 soums"
+  },
+
+  "brand": {
+    "brandname": "Why choose us?",
+    "brandxizmatlari": "Service service",
+    "brandqismi": "Spare parts of goods",
+    "brandijara": "Lease of goods",
+    "brandaksessuari": "Vacuum cleaner accessories",
+    "brandishonchi": "Those who believe in us"
+  },
+
+  "ournews": {
+    "ournewsname": "Why choose us?",
+    "ournewstitle1": "Installment plan from Clemar",
+    "ournewstext1": "Are you looking to buy professional equipment but not ready to shell out the full price? We have a solution for you! Learn about our convenient installment plan, which allows you to buy the equipment you need now and pay it off in installments. Visit the Checkout section for full details and to place your order today. Make your shopping more affordable with Clemar!",
+    "ournewsbtn": "More",
+    "ournewstitle2": "Stocks in Clemar",
+    "ournewstext2": "Find out about our special offers and discounts! Visit the Promotions section to stay up to date with all of Clemar's great deals. Save on purchases and get additional bonuses. We are waiting for you on our social networks for even bigger surprises"
+  },
+
+  "contactus": {
+    "contactusname": "Contact us",
+    "contactustitle": "Leave your phone number and our managers will contact you shortly",
+    "contactusinputname": "Name",
+    "contactusinputtel": "Phone number",
+    "contactusinputtextarea": "Your message",
+    "contactusbtn": "Sending"
+  },
+
+  "footer": {
+    "footertitle": "Clemar is a distributor of more than 25 world brands in Uzbekistan",
+    "footerheadertitle1": "For communication",
+    "footerlocation": "Our address",
+    "footerlogotip": "info@clemar.uz",
+    "footerheadertitle2": "Products",
+    "footerpage1": "Paper products",
+    "footerpage2": "Professional vacuum cleaners",
+    "footerpage3": "Floor washing machines",
+    "footerpage4": "Detergents",
+    "footerheadertitle3": "Information",
+    "footerpage5": "About Us",
+    "footerpage6": "Categories",
+    "footerpage7": "Why choose us?",
+    "footerpage8": "F.A.Q.",
+    "footerpage9": "Bunyodkor street, Tashkent city",
+    "footerpage10": "Click here to view on the map"
+  },
+
+  "about": {
+    "bizxaqimizda": "about Us",
+    "abouttext": "Welcome to the new website of Clemar, your trusted partner in the field of professional cleaning! Formerly known as egatoza market with more than 10 years of experience, we are pleased to introduce you to our updated and redesigned identity - Clemar. With us, you will get not only products, but also guaranteed quality and professionalism in every detail. Clemar is a leading distributor of more than 25 world brands specializing in cleaning equipment in Uzbekistan. Our assortment includes professional vacuum cleaners for dry and wet cleaning, as well as high-quality paper, napkins and paper towels. But of course, our main focus is scrubber dryers. At Clemar, you'll find a wide selection of cordless and corded dryers from world-famous brands. Our experience and professionalism allow us to offer you only the best solutions for maintaining cleanliness in any environment. We are already proud to cooperate with well-known companies, and our reputation in Uzbekistan confirms our place among the best. Clemar is not just a supplier, it is your reliable partner in the struggle for cleanliness and order. Join us, Clemar-nit and provide your business with the highest standard of cleaning and hygiene."
+  },
+
+  "news1": {
+    "newstitle": "The Clemar web page is now active",
+    "newstext1": "We are pleased to announce the launch of the updated website of Clemark, your trusted partner in the field of professional cleaning! Formerly known as \"Clema Market\" and with more than a decade of experience, we present to you a renewed and redesigned identity - Clemar. Our company is the leading distributor of more than 25 world brands in the field of cleaning equipment in Uzbekistan. We specialize in providing guaranteed quality and professionalism in every detail. In the Clemar range you will find professional vacuum cleaners for dry and wet cleaning, as well as high-quality paper, napkins and paper towels.",
+    "othernews": "Other news",
+    "newsproductstext1": "rasrochka for products from the Clemar company",
+    "newstext2": "Do you want to buy professional equipment, but are not ready to commit? We have found a solution for you! Through the Uzum platform, we offer the possibility of convenient payment in installments. Available payment options: Scrubber dryers Professional vacuum cleaners Paper products Buy all the cleaning equipment you need for your business without financial restrictions. lash advantages: Easy online registration No unnecessary documents Don't miss the opportunity to develop your business with Clemar company Follow news and promotions Subscribe to our social networks or visit our salon!",
+    "newsnextpagebtn": "Read more",
+    "newsproductstext2": "Special promotions from Clemar",
+    "newstext3": "Special Discount Just For You! \"All the appliances you are looking for are now at special discounts! Shop today and don't miss the opportunity to save. Limited quantities, hurry! 🛒💥 With fast delivery and flexible payment terms, your satisfaction is important to us!"
+  },
+
+  "news2": {
+    "newstitle": "A rassrochka for products from the Clemar company",
+    "newstext1": "Looking to buy professional equipment but not ready to make the plunge? We have found a solution for you! We offer a convenient installment payment option through the Uzum platform. Available payment options: Scrubbers Dryers Professional vacuum cleaners Detergents Paper products Buy all the cleaning equipment you need for your business without financial restrictions. Get the equipment you need now and pay gradually with our installment plan. Advantages of paying through Vine: Flexible payment terms Easy online registration No unnecessary documents Fast approval Don't miss the opportunity to grow your business with Clemar! Place your order now. Follow news and promotions. Subscribe to our social networks or visit our salon!",
+    "othernews": "Other news",
+    "newsproductstext1": "The Clemar web page is now active",
+    "newstext2": "We are pleased to announce the launch of the updated website of Clemar, your reliable partner in the field of professional cleaning! Formerly known as \"Clema Market\" and with more than ten years of experience, we present to you an updated and redesigned identity - Clemar. Our company is a leading distributor of more than 25 world brands in the field of cleaning equipment in Uzbekistan. We specialize in providing guaranteed quality and professionalism in every detail. In the Clemar assortment, you will find professional vacuum cleaners for dry vacuum cleaning, as well as high-quality paper, napkins and paper towels.",
+    "newsnextpagebtn": "Read more",
+    "newsproductstext2": "Special promotions from Clemar",
+    "newstext3": "Special Discount Just For You! \"All the appliances you are looking for are now at special discounts! Shop today and don't miss the opportunity to save. Limited quantities, hurry! 🛒💥 With fast delivery and flexible payment terms, your satisfaction is important to us!"
+  },
+
+  "news3": {
+    "newstitle": "Специальные предложения от Клемара",
+    "newstext1": "Специальная скидка только для вас! «На всю технику, которую вы ищете, теперь действуют специальные скидки! Делайте покупки сегодня и не упустите большую экономию. Количество ограничено, спешите! 🛒💥 Благодаря быстрой доставке и гибким условиям оплаты, ваше удовлетворение важно для нас!",
+    "othernews": "Другие новости",
+    "newsproductstext1": "Веб-страница Clemar теперь активна",
+    "newstext2": "Мы рады сообщить о запуске обновленного сайта Клемар, вашего надежного партнера в сфере профессионального клининга! Ранее известная как «Клема Маркет» и обладая более чем десятилетним опытом, мы представляем вам обновленный и обновленный бренд — Клемар. Наша компания является ведущим дистрибьютором более 25 мировых брендов в сфере клинингового оборудования в Узбекистане. Мы специализируемся на обеспечении гарантированного качества и профессионализма в каждой детали. В ассортименте Клемар вы найдете профессиональные пылесосы для сухой уборки, а также качественную бумагу, салфетки и бумажные полотенца.",
+    "newsnextpagebtn": "Читать далее",
+    "newsproductstext2": "Рассрочка для продукции от компании Clemar",
+    "newstext3": "Хотите купить профессиональное оборудование, но не готовы сделать решительный шаг? Мы нашли решение для вас! Мы предлагаем удобную возможность рассрочки платежа через платформу Uzum. Доступные варианты оплаты: Поломоечные машины Профессиональные пылесосы Моющие средства Бумажная продукция Покупайте все необходимое для вашего бизнеса уборочное оборудование без финансовых ограничений. Приобретите необходимое оборудование сейчас и платите постепенно, используя нашу рассрочку. Преимущества оплаты через Vine: Гибкие условия оплаты. Простая онлайн-регистрация. Никаких лишних документов. Быстрое одобрение. Не упустите возможность развивать свой бизнес вместе с Clemar! Разместите заказ сейчас. Следите за новостями и акциями Подпишитесь на наши социальные сети или посетите наш салон!"
+  },
+
+  "katalog": {
+    "btn1": "Floor washing machines",
+    "btn2": "Professional vacuum cleaners",
+    "btn3": "Cleaning equipment",
+    "btn4": "Detergents",
+    "btn5": "Paper products"
+  },
+
+  "tab1": {
+    "link1": "TVX floor washing machines",
+    "link2": "Sweepers",
+    "link3": "Rotating machines",
+    "link4": "CLEMAR Floor washing machines"
+  },
+
+  "tab2": {
+    "link1": "Evolution of Sebo",
+    "link2": "Santoemma",
+    "link3": "Phantom",
+    "link4": "Clemar CRS"
+  },
+
+  "tab3": {
+    "link1": "Floor cleaning equipment",
+    "link2": "Cleaning carts",
+    "link3": "Equipment for cleaning windows",
+    "link4": "Buckets, mops, brushes"
+  },
+
+  "tab4": {
+    "link1": "Hand washing products",
+    "link2": "General hygiene products",
+    "link3": "Kitchen care tool",
+    "link4": "Products for cleanliness and hygiene of buildings",
+    "link5": "Bathroom care products",
+    "link6": "Products for dishes and dishwashers",
+    "link7": "Laundry detergents"
+  },
+
+  "tab5": {
+    "link1": "Toilet paper",
+    "link2": "Paper towels",
+    "link3": "Napkins",
+    "link4": "Others"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "widgetmodal": {
+    "modal": "Bonus olish",
+    "yuborish": "Yuborish",
+    "ism": "Ism",
+    "tel": "Telefon raqami"
+  },
+
+  "widget": {
+    "manzil": "Manzil",
+    "tashkent": "Tashkent",
+    "instagram": "Instagram",
+    "telegram": "Telegram"
+  },
+
+  "navbar": {
+    "katalog": "Katalog",
+    "placeholdernavbar": "Katalog",
+    "bizhaqimizda": "Biz haqimizda",
+    "sevimli": "Sevimlilar"
+  },
+
+  "kategories": {
+    "kategoriya": "Kategoriyalar",
+    "hammasiniko'rish": "Hammasini ko'rish"
+  },
+
+  "kategorisdata": {
+    "name1": "Qog'oz mahsulotlari",
+    "size1": "4 ta mahsulotlar",
+    "name2": "Professional changyutgichlar",
+    "size2": "4 ta mahsulotlar",
+    "name3": "Pol yuvish mashinalari",
+    "size3": "4 ta mahsulotlar",
+    "name4": "Yuvish vositalari",
+    "size4": "7 ta mahsulotlar",
+    "name5": "Tozalash uskunalari",
+    "size5": "4 ta mahsulotlar"
+  },
+
+  "productsdata": {
+    "products": "Eng zo'r mahsulotlar",
+    "hammasiniko'rish": "Hammasini ko'rish",
+    "name1": "Selpak Professional Premium hojatxona qog'ozi 24 dona x3",
+    "size1": "0 so'm",
+    "name2": "Selpak Professional Premium Butik qutisi salfetkalar bilan 48 dona.",
+    "size2": "0 so'm",
+    "name3": "SEBO EVOLUTION 470",
+    "size3": "0 so'm",
+    "name4": "SEBO AUTOMATIC XP30",
+    "size4": "0 so'm",
+    "name5": "Fantom Promidi 250M",
+    "size5": "0 so'm",
+    "name6": "Santoemma sabrina sw15",
+    "size6": "0 so'm",
+    "name7": "Santoemma sabrina maxi",
+    "size7": "0 so'm",
+    "name8": "TVX T35E",
+    "size8": "0 so'm"
+  },
+
+  "brand": {
+    "brandname": "Nega bizni tanlashadi?",
+    "brandxizmatlari": "Servis xizmati",
+    "brandqismi": "Tovarlarning ehtiyot qismlari",
+    "brandijara": "Tovarlarni ijaraga berish",
+    "brandaksessuari": "Chang yutgich aksessuarlari",
+    "brandishonchi": "Bizga ishonganlar"
+  },
+
+  "ournews": {
+    "ournewsname": "Nega bizni tanlashadi?",
+    "ournewstitle1": "Clemardan bo'lib to'lash rejasi",
+    "ournewstext1": "Siz professional uskunani sotib olishni xohlaysizmi, lekin to'liqmiqdorni ajratishga tayyor emasmisiz? Bizda siz uchun yechim bor!Bizning qulay bo'lib to'lash tizimimiz haqida bilib oling, busizga kerakli uskunani hoziroq sotib olish va unibosqichma-bosqich to'lash imkonini beradi. Barcha tafsilotlarnibilish va bugun buyurtma berish uchun “Toʻlov” boʻlimiga tashrifbuyuring. Clemar bilan xaridingizni yanada arzonroq qiling!",
+    "ournewsbtn": "Batafsil",
+    "ournewstitle2": "Clemardagi aktsiyalar",
+    "ournewstext2": "Bizning maxsus takliflarimiz va chegirmalarimiz haqida biliboling! Clemarning barcha foydali imkoniyatlaridan xabardor bo'lishuchun Aktsiyalar bo'limiga tashrif buyuring. Xaridlarni tejang vaqo'shimcha bonuslarga ega bo'ling. Sizni ijtimoiy tarmoqlarimizdabundanda kattaroq syurprizlar uchun kutamiz"
+  },
+
+  "contactus": {
+    "contactusname": "Biz bilan bog'lanish",
+    "contactustitle": "Telefon raqamingizni qoldiring va menejerlarimiz tez orada siz bilan bog'lanadi",
+    "contactusinputname": "Ism",
+    "contactusinputtel": "Telefon raqami",
+    "contactusinputtextarea": "Sizning xabaringiz",
+    "contactusbtn": "Yuborish"
+  },
+
+  "footer": {
+    "footertitle": " Clemar - O'zbekistonda 25 dan ortiq jahon brendlariningdistribyutori",
+    "footerheadertitle1": "Aloqa uchun",
+    "footerlocation": "Bizning manzil",
+    "footerlogotip": "info@clemar.uz",
+    "footerheadertitle2": "Mahsulotlar",
+    "footerpage1": "Qog'oz mahsulotlari",
+    "footerpage2": "Professional changyutgichlar",
+    "footerpage3": "Pol yuvish mashinalari",
+    "footerpage4": "Yuvish vositalari",
+    "footerheadertitle3": "Ma`lumot",
+    "footerpage5": "Biz haqimizda",
+    "footerpage6": "Kategoriyalar",
+    "footerpage7": "Nega bizni tanlashadi?",
+    "footerpage8": "F.A.Q.",
+    "footerpage9": "Toshkent shahar, Bunyodkor shoh ko'chasi",
+    "footerpage10": "Xaritada ko’rish uchun shu yerga bosing"
+  },
+
+  "about": {
+    "bizxaqimizda": "Biz haqimizda",
+    "abouttext": " Professional tozalash sohasidagi ishonchli hamkoringiz - Clemarningyangi veb-saytiga xush kelibsiz! Ilgari 10 yildan ortiq tajribaga egatoza bozor sifatida tanilgan, biz sizni yangilangan va qayta ishlanganidentifikatorimiz - Clemar bilan tanishtirishdan mamnunmiz. Biz bilansiz nafaqat mahsulotlarga, balki har bir detalda kafolatlangan sifat vaprofessionallikka ega bo'lasiz. Clemar O'zbekistonda tozalashuskunalariga ixtisoslashgan 25 dan ortiq jahon brendlarining yetakchidistribyutori hisoblanadi. Bizning assortimentimiz quruq va nam tozalashuchun professional changyutgichlar, shuningdek, yuqori sifatli qog'oz,salfetkalar va qog'oz sochiqlarni o'z ichiga oladi. Lekin, albatta,bizning asosiy e'tiborimiz skrubber quritgichlardir. Clemar-da siz butundunyo bo'ylab mashhur brendlarning simsiz va shnurli quritgichlarningkeng tanlovini topasiz. Bizning tajribamiz va professionalligimiz sizgahar qanday muhitda tozalikni saqlash uchun faqat eng yaxshi echimlarnitaklif qilish imkonini beradi. Biz allaqachon taniqli kompaniyalar bilanhamkorlik qilayotganimizdan faxrlanamiz va O‘zbekistondagiobro‘-e’tiborimiz eng yaxshilar qatoridagi o‘rnimizni tasdiqlaydi.Clemar shunchaki yetkazib beruvchi emas, u tozalik va tartib uchunkurashda sizning ishonchli hamkoringizdir. Bizga qo'shiling, Clemar-nitanlang va biznesingizni tozalash va gigienaning eng yuqori standartibilan ta'minlang."
+  },
+
+  "news1": {
+    "newstitle": "Clemar web sahifasi o'z faoliyatini boshladi",
+    "newstext1": " Professional tozalash sohasidagi ishonchli hamkoringiz - Clemarkompaniyasining yangilangan veb-sayti ishga tushirilganini mamnuniyatbilan e'lon qilamiz! Ilgari \"Clema Market\" nomi bilan tanilgan va o'nyildan ortiq tajribaga ega bo'lgan holda, biz sizga yangilangan va qaytaishlangan shaxsiyatni - Clemarni taqdim etamiz. KompaniyamizO'zbekistonda tozalash uskunalari sohasida 25 dan ortiq jahonbrendlarining yetakchi distribyutori hisoblanadi. Biz har bir detaldakafolatlangan sifat va professionallikni ta'minlashga ixtisoslashganmiz.Clemar assortimentida siz quruq va nam tozalash uchun professionalchangyutgichlarni, shuningdek, yuqori sifatli qog'oz, salfetkalar vaqog'oz sochiqlarni topasiz.",
+    "othernews": "Boshqa yangiliklar",
+    "newsproductstext1": "Clemar kompaniyasidan mahsulotlar uchun rassrochka",
+    "newstext2": "Professional uskunani sotib olishni xohlaysiz, lekin bir yo‘lato‘lashga tayyor emasmisiz? Biz siz uchun yechim topdik! Uzumplatformasi orqali biz qulay bo‘lib-bo‘lib to‘lash imkoniyatinitaklif qilamiz. Mavjud to‘lov imkoniyatlari: Skrubber quritgichlarProfessional changyutgichlar Yuvish vositalari Qog‘oz mahsulotlariBiznesingiz uchun kerak bo'lgan barcha tozalash uskunalarinimoliyaviy cheklovlarsiz xarid qiling. Bo‘lib-bo‘lib to‘lash rejasibilan darhol kerakli uskunani qo‘lga kiriting va asta-sekinto‘lang. Uzum orqali to‘lashning afzalliklari: Moslashuvchanto‘lov shartlari Oson onlayn ro‘yxatdan o‘tish Keraksizhujjatlarsiz Tez tasdiqlash Clemar kompaniyasi bilan biznesingiznirivojlantirish imkoniyatini qo‘ldan boy bermang! Buyurtmanihoziroq joylashtiring. Yangiliklar va aksiyalarni kuzatib boring.Ijtimoiy tarmoqlarimizga obuna bo‘ling yoki salonimizga tashrifbuyuring!",
+    "newsnextpagebtn": "Ko'proq o'qish",
+    "newsproductstext2": "Clemardan maxsus aksiyalar",
+    "newstext3": "Maxsus Chegirma Faqat Siz Uchun! \"Siz izlayotgan barcha texnikamahsulotlari endi maxsus chegirmalarda! Bugun xarid qiling vakatta tejash imkoniyatini qo‘ldan boy bermang. Cheklanganmiqdordagi mahsulotlar, shoshiling! 🛒💥 Tez orada yetkazib berishva moslashuvchan to‘lov shartlari bilan, sizning qoniqishingiz bizuchun muhim!"
+  },
+
+  "news2": {
+    "newstitle": "Clemar kompaniyasidan mahsulotlar uchun rassrochka",
+    "newstext1": "Professional uskunani sotib olishni xohlaysiz, lekin bir yo‘lato‘lashga tayyor emasmisiz? Biz siz uchun yechim topdik! Uzumplatformasi orqali biz qulay bo‘lib-bo‘lib to‘lash imkoniyatini taklifqilamiz. Mavjud to‘lov imkoniyatlari: Skrubber quritgichlar Professionalchangyutgichlar Yuvish vositalari Qog‘oz mahsulotlari Biznesingiz uchunkerak bo'lgan barcha tozalash uskunalarini moliyaviy cheklovlarsiz xaridqiling. Bo‘lib-bo‘lib to‘lash rejasi bilan darhol kerakli uskunaniqo‘lga kiriting va asta-sekin to‘lang. Uzum orqali to‘lashningafzalliklari: Moslashuvchan to‘lov shartlari Oson onlayn ro‘yxatdano‘tish Keraksiz hujjatlarsiz Tez tasdiqlash Clemar kompaniyasi bilanbiznesingizni rivojlantirish imkoniyatini qo‘ldan boy bermang!Buyurtmani hoziroq joylashtiring. Yangiliklar va aksiyalarni kuzatibboring. Ijtimoiy tarmoqlarimizga obuna bo‘ling yoki salonimizga tashrifbuyuring!",
+    "othernews": "Boshqa yangiliklar",
+    "newsproductstext1": "Clemar web sahifasi o'z faoliyatini boshladi",
+    "newstext2": " Professional tozalash sohasidagi ishonchli hamkoringiz - Clemarkompaniyasining yangilangan veb-sayti ishga tushirilganinimamnuniyat bilan e'lon qilamiz! Ilgari \"Clema Market\" nomi bilantanilgan va o'n yildan ortiq tajribaga ega bo'lgan holda, bizsizga yangilangan va qayta ishlangan shaxsiyatni - Clemarni taqdimetamiz. Kompaniyamiz O'zbekistonda tozalash uskunalari sohasida 25dan ortiq jahon brendlarining yetakchi distribyutori hisoblanadi.Biz har bir detalda kafolatlangan sifat va professionalliknita'minlashga ixtisoslashganmiz. Clemar assortimentida siz quruq vanam tozalash uchun professional changyutgichlarni, shuningdek,yuqori sifatli qog'oz, salfetkalar va qog'oz sochiqlarni topasiz.",
+    "newsnextpagebtn": "Ko'proq o'qish",
+    "newsproductstext2": "Clemardan maxsus aksiyalar",
+    "newstext3": "Maxsus Chegirma Faqat Siz Uchun! \"Siz izlayotgan barcha texnikamahsulotlari endi maxsus chegirmalarda! Bugun xarid qiling vakatta tejash imkoniyatini qo‘ldan boy bermang. Cheklanganmiqdordagi mahsulotlar, shoshiling! 🛒💥 Tez orada yetkazib berishva moslashuvchan to‘lov shartlari bilan, sizning qoniqishingiz bizuchun muhim!"
+  },
+
+  "news3": {
+    "newstitle": "Clemardan maxsus aksiyalar",
+    "newstext1": "Maxsus Chegirma Faqat Siz Uchun! \"Siz izlayotgan barcha texnika mahsulotlari endi maxsus chegirmalarda! Bugun xarid qiling va katta tejash imkoniyatini qo‘ldan boy bermang. Cheklangan miqdordagi mahsulotlar, shoshiling! 🛒💥 Tez orada yetkazib berish va moslashuvchan to‘lov shartlari bilan, sizning qoniqishingiz biz uchun muhim!",
+    "othernews": "Boshqa yangiliklar",
+    "newsproductstext1": "Clemar web sahifasi o'z faoliyatini boshladi",
+    "newstext2": " Professional tozalash sohasidagi ishonchli hamkoringiz - Clemarkompaniyasining yangilangan veb-sayti ishga tushirilganinimamnuniyat bilan e'lon qilamiz! Ilgari \"Clema Market\" nomi bilantanilgan va o'n yildan ortiq tajribaga ega bo'lgan holda, bizsizga yangilangan va qayta ishlangan shaxsiyatni - Clemarni taqdimetamiz. Kompaniyamiz O'zbekistonda tozalash uskunalari sohasida 25dan ortiq jahon brendlarining yetakchi distribyutori hisoblanadi.Biz har bir detalda kafolatlangan sifat va professionalliknita'minlashga ixtisoslashganmiz. Clemar assortimentida siz quruq vanam tozalash uchun professional changyutgichlarni, shuningdek,yuqori sifatli qog'oz, salfetkalar va qog'oz sochiqlarni topasiz.",
+    "newsnextpagebtn": "Ko'proq o'qish",
+    "newsproductstext2": "Clemar kompaniyasidan mahsulotlar uchun rassrochka",
+    "newstext3": "Professional uskunani sotib olishni xohlaysiz, lekin bir yo‘lato‘lashga tayyor emasmisiz? Biz siz uchun yechim topdik! Uzumplatformasi orqali biz qulay bo‘lib-bo‘lib to‘lash imkoniyatinitaklif qilamiz. Mavjud to‘lov imkoniyatlari: Skrubber quritgichlarProfessional changyutgichlar Yuvish vositalari Qog‘oz mahsulotlariBiznesingiz uchun kerak bo'lgan barcha tozalash uskunalarinimoliyaviy cheklovlarsiz xarid qiling. Bo‘lib-bo‘lib to‘lash rejasibilan darhol kerakli uskunani qo‘lga kiriting va asta-sekinto‘lang. Uzum orqali to‘lashning afzalliklari: Moslashuvchanto‘lov shartlari Oson onlayn ro‘yxatdan o‘tish Keraksizhujjatlarsiz Tez tasdiqlash Clemar kompaniyasi bilan biznesingiznirivojlantirish imkoniyatini qo‘ldan boy bermang! Buyurtmanihoziroq joylashtiring. Yangiliklar va aksiyalarni kuzatib boring.Ijtimoiy tarmoqlarimizga obuna bo‘ling yoki salonimizga tashrifbuyuring!"
+  },
+
+  "katalog": {
+    "btn1": "Pol yuvish mashinalari",
+    "btn2": "Professional changyutgichlar",
+    "btn3": "Tozalash uskunalari",
+    "btn4": "Yuvish vositalari",
+    "btn5": "Qog'oz mahsulotlari"
+  },
+
+  "tab1": {
+    "link1": "TVX Pol yuvish mashinalari",
+    "link2": "Supuruvchilar",
+    "link3": "Aylanadigan mashinalar",
+    "link4": " CLEMAR Pol yuvish mashinalari"
+  },
+
+  "tab2": {
+    "link1": "Sebo evolyutsiyasi",
+    "link2": "Santoemma",
+    "link3": "Fantom",
+    "link4": "Clemar CRS"
+  },
+
+  "tab3": {
+    "link1": "Zaminni tozalash uchun uskunalar",
+    "link2": "Tozalash aravachalari",
+    "link3": "Derazalarni tozalash uchun uskunalar",
+    "link4": "Chelaklar, moplar, cho'tkalar"
+  },
+
+  "tab4": {
+    "link1": " Qo'l yuvish vositalari",
+    "link2": "Umumiy gigiena vositalari",
+    "link3": "Oshxonani parvarish qilish vositalati",
+    "link4": " Binolarning tozaligi va gigienasi uchun mahsulotlar",
+    "link5": "Hammomni parvarish qilish vositalari",
+    "link6": "Idish va idish yuvish mashinalari uchun mahsulotlar",
+    "link7": "Kir yuvish vositalari"
+  },
+
+  "tab5": {
+    "link1": "Tualet qog'ozi",
+    "link2": "Qog'oz sochiqlar",
+    "link3": "Salfetkalar",
+    "link4": "Boshqalar"
+  }
+}

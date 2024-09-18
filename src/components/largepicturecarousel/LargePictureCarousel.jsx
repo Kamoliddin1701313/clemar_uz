@@ -18,31 +18,34 @@ const LargePictureCarousel = () => {
   };
 
   return (
-    <div className="bg-green-400 max-w-[1280px] mx-auto py-16">
-      <div className="slider-container max-w-[1200px] mx-auto">
+    <div className="max-w-[1280px] mx-auto pt-12 pb-10 xxl:py-4 xl:p-0">
+      <div className="slider-container max-w-[1280px] lg:px-12 sm:px-6 mx-auto overflow-hidden">
         <Slider {...settings}>
-          <div className="h-[400px] rounded-[10px]">
+          <div className="h-[400px] xl:h-[320px] lg:h-[220px] rounded-[15px]">
             <img
               src={bigscrolimg1}
               alt="big-scrol-img1"
-              className="w-full h-full rounded-[10px]"
+              className="w-full h-full rounded-[15px]"
             />
           </div>
-          <div className="h-[400px] rounded-[10px]">
+
+          <div className="h-[400px] xl:h-[320px] lg:h-[220px] rounded-[10px]">
             <img
               src={bigscrolimg2}
               alt="big-scrol-img2"
               className="w-full h-full rounded-[10px]"
             />
           </div>
-          <div className="h-[400px] rounded-[10px]">
+
+          <div className="h-[400px] xl:h-[320px] lg:h-[220px] rounded-[10px]">
             <img
               src={bigscrolimg1}
               alt="big-scrol-img1"
               className="w-full h-full rounded-[10px]"
             />
           </div>
-          <div className="h-[400px] rounded-[10px]">
+
+          <div className="h-[400px] xl:h-[320px] lg:h-[220px] rounded-[10px]">
             <img
               src={bigscrolimg2}
               alt="big-scrol-img2"
