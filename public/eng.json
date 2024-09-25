@@ -187,5 +187,10 @@
     "link2": "Paper towels",
     "link3": "Napkins",
     "link4": "Others"
+  },
+
+  "productlayout": {
+    "som": "soum",
+    "producttext": "Rest assured, our products are of the highest quality!"
   }
 }

@@ -10,7 +10,8 @@ const Widget = () => {
   const { t, i18n } = useTranslation();
 
   const handleChangeLanguage = (event) => {
-    i18n.changeLanguage(event.target.value); // tilni o'zgartiramiz
+    const selectedLaungage = event.target.value;
+    i18n.changeLanguage(selectedLaungage); // tilni o'zgartiramiz
   };
 
   return (

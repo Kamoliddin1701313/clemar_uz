@@ -72,7 +72,7 @@ const Product = () => {
                     />
                   </Link>
 
-                  <Link to={"/salom"}>
+                  <Link to={"/notfound"}>
                     <FaRegHeart className="w-[25px] h-[22px] absolute top-6 right-5 xl:top-4 xl:right-3 text-[#007aff]" />
                   </Link>
                 </div>
@@ -100,14 +100,14 @@ const Product = () => {
             >
               <div className="rounded-[20px] mx-auto grid xl:h-[300px] content-between w-[100%] h-[420px] border-[1px] p-3 border-[#e7e7e7] border-solid relative">
                 <div className="border-[#e7e7e7] border-solid relative rounded-[20px] border-[1px] p-3 xl:p-0">
-                  <Link to={"/salom"}>
+                  <Link to={"/notfound"}>
                     <img
                       src={val.productsImg}
                       className="h-[180px] w-[70%] xl:w-1/2 xl:h-[120px] mx-auto my-5"
                     />
                   </Link>
 
-                  <Link to={"/salom"}>
+                  <Link to={"/notfound"}>
                     <FaRegHeart className="w-[25px] xl:w-[15px] h-[22px] xl:h-[15px] absolute top-6 right-5 text-[#007aff]" />
                   </Link>
                 </div>

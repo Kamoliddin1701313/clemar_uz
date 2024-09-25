@@ -61,12 +61,12 @@ function ShopBtn() {
 
   return (
     <div className="py-1 px-5 rounded-[8px] font-semibold bg-blue-400 text-center lg:mx-auto w-[200px] xl:px-1 xl:py-0 lg:py-[6px]">
-      <Button
+      <button
         onClick={handleOpen}
-        className="z-50 border-none py-3 rounded-[8px]"
+        className="z-50 border-none py-[10px] text-white rounded-[8px]"
       >
         {t("widgetmodal.modal")}
-      </Button>
+      </button>
       <Modal
         open={open}
         onClose={handleClose}

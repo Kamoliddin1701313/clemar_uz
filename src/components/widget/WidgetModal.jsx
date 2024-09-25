@@ -52,7 +52,7 @@ function WidgetModal() {
       },
     })
       .then((res) => {
-        document.getElementById("form_id").reset();
+        document.getElementById("form_id").reset("");
         alert("Muvaffaqiyotli yuborildi ... 👏");
       })
       .catch((err) => console.log(err));
@@ -61,12 +61,12 @@ function WidgetModal() {
 
   return (
     <div className="py-1 px-5 rounded-[8px] font-semibold bg-white xl:px-1 lg:hidden xl:py-0 lg:p-0">
-      <Button
+      <button
         onClick={handleOpen}
-        className="text-[#49c3f2] border-none py-3 rounded-[8px]"
+        className="text-[#49c3f2] border-none py-[10px] rounded-[8px]"
       >
         {t("widgetmodal.modal")}
-      </Button>
+      </button>
       <Modal
         open={open}
         onClose={handleClose}

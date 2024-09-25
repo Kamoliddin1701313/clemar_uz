@@ -187,5 +187,10 @@
     "link2": "Qog'oz sochiqlar",
     "link3": "Salfetkalar",
     "link4": "Boshqalar"
+  },
+
+  "productlayout": {
+    "som": "so'm",
+    "producttext": "Ishonchingiz komil bo'lsin, mahsulotlarimiz eng yuqorisifatlilari!"
   }
 }
